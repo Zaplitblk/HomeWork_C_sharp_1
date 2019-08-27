@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Program Files\\SmartGit\\bin\\HomeWork_C_sharp_1\\DZ C# lessons1\\Lesons 1\\DZ_1.4\\DZ_1.4.csproj": {}
+  },
+  "projects": {
+    "C:\\Program Files\\SmartGit\\bin\\HomeWork_C_sharp_1\\DZ C# lessons1\\Lesons 1\\DZ_1.4\\DZ_1.4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\SmartGit\\bin\\HomeWork_C_sharp_1\\DZ C# lessons1\\Lesons 1\\DZ_1.4\\DZ_1.4.csproj",
+        "projectName": "DZ_1.4",
+        "projectPath": "C:\\Program Files\\SmartGit\\bin\\HomeWork_C_sharp_1\\DZ C# lessons1\\Lesons 1\\DZ_1.4\\DZ_1.4.csproj",
+        "packagesPath": "C:\\Users\\Zaplitblk\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\SmartGit\\bin\\HomeWork_C_sharp_1\\DZ C# lessons1\\Lesons 1\\DZ_1.4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zaplitblk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
